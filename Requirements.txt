@@ -1,0 +1,4 @@
+# Dependencies for the included pipeline worker (sync_comments.py).
+# reconstruct_sale_price.py itself uses only the Python standard library.
+supabase
+apify-client
